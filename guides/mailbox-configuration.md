@@ -8,7 +8,7 @@ You've designed eyecatching emails in Hubble and you want to make sure that ever
 
 ### Overview
 
-Hubble uses Amazon Web Services to deliver emails and is required to register each domain that's used to send emails. After you create a Mailbox in the Admin Hub, Hubble Support is alerted and the process is kicked off.&#x20;
+Hubble uses Amazon Web Services to deliver emails and is required to register each domain that's used to send emails. After you create a [Mailbox in the Admin Hub](https://hubble.vote/mailbo%E2%80%A6), Hubble Support is alerted and the process is kicked off.&#x20;
 
 ### SPF
 
