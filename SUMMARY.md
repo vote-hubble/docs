@@ -5,6 +5,7 @@
 ## Guides
 
 * [Signing up for an account](guides/user-registration.md)
+* [📮 Mailbox Configuration](guides/mailbox-configuration.md)
 
 ## Fundamentals
 
