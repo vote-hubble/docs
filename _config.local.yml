@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.hubble.vote" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
-remote_theme: just-the-docs/just-the-docs
+theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
