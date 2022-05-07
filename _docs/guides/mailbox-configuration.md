@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Guides
 description: Configuring your Domain Network Settings (DNS) for sending emails from Hubble
 ---
 
@@ -22,10 +24,6 @@ In our case, we are authorizing all emails sent from the domain `mail.hubble.vot
 | Host               |                                      @ |
 | Value              | `v=spf1 include:mail.hubble.vote ~all` |
 | Time to Live (TTL) |                                   3600 |
-
-{% hint style="info" %}
-Is there an already exisitng text record that begins with `v=spf1`? Great! Simply add `include:mail.hubble.vote` and ensure `~all` is at the end.
-{% endhint %}
 
 ### DKIM
 
