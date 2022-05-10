@@ -12,7 +12,7 @@ plugins:
 
 collections:
   docs:
-    permalink: "/:collection/:path"
+    permalink: "/:path"
     output: true
 
 just_the_docs:
