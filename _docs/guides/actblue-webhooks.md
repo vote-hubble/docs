@@ -24,8 +24,8 @@ Optionally, you can specify `hello@hubble.vote` as the technical contact to keep
 
 | ActBlue Type          | Hubble Type/Endpoint | URL                                                             |
 | --------------------- | -------------------: | --------------------------------------------------------------- |
-| Default               |        Contributions | `https://app.hubble.vote/api/actblue/{ UNIVERSE_ID }/contributions` |
-| Default Cancellations |        Cancellations | `https://app.hubble.vote/api/actblue/{ UNIVERSE_ID }/cancellations` |
-| Default Refunds       |              Refunds | `https://app.hubble.vote/api/actblue/{ UNIVERSE_ID }/refunds`       |
+| Default               |        Contributions | `https://api.hubble.vote/actblue/{ UNIVERSE_ID }/contributions` |
+| Default Cancellations |        Cancellations | `https://api.hubble.vote/actblue/{ UNIVERSE_ID }/cancellations` |
+| Default Refunds       |              Refunds | `https://api.hubble.vote/actblue/{ UNIVERSE_ID }/refunds`       |
 
 Contact [Hubble Support](mailto:help@hubble.vote) if you have any questions.
