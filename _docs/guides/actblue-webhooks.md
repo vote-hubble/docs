@@ -18,7 +18,7 @@ You'll need a few things from your [Admin Hub](https://app.hubble.vote/admin) to
 2. API Password
 3. Endpoint URL for each webhook integration
 
-![Screenshot of ActBlue configuration in the Admin Hub](/assets/images/screenshots/actblue.png)
+![Screenshot of ActBlue configuration in the Admin Hub](https://assets.hubble.vote/marketing/images/screenshots/admin-hub-actblue.png)
 
 Optionally, you can specify `hello@hubble.vote` as the technical contact to keep us in the loop on your webhook requests.
 
