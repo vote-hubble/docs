@@ -7,7 +7,7 @@ title: Home
 
 Hubble is the all-in-one solution for your campaign's contact management, financial accounting, and communication needs.
 
-![Screenshot of Hubble](/assets/images/screenshots/main.png)
+![Screenshot of Hubble](https://assets.hubble.vote/marketing/images/screenshots/universe-hub-dashboard.png)
 
 ### Guides: Jump right in
 
