@@ -1,5 +1,5 @@
 title: Hubble Docs
-email: support@hubble.vote
+email: help@hubble.vote
 description: >-
   Hubble user documentation
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,8 +31,8 @@ aux_links_new_tab: true
 
 back_to_top: true
 back_to_top_text: "Back to top"
-
-footer_content: "Copyright &copy; 2017-2022 MythCoders, LLC."
+color_scheme: dark
+footer_content: "Copyright &copy; 2022 HBLE, LLC."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
