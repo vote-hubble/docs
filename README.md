@@ -1,4 +1,4 @@
-<img src="https://assets.hubble.vote/rebrand/mono-dark/logo-title.png" width="250px" alt="Hubble logo" />
+<img src="https://cdn.hubble.vote/branding/mono-dark/logo-title.png" width="250px" alt="Hubble logo" />
 
 # Documentation Website
 
