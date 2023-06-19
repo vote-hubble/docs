@@ -5,8 +5,8 @@
 ## Fundamentals
 
 * [💡 Federations](fundamentals/federations.md)
-* [☄ Universe](fundamentals/universe.md)
-* [✨ Multiverse](fundamentals/multiverse.md)
+* [☄ Universes](fundamentals/universes.md)
+* [✨ Multiverses](fundamentals/multiverses.md)
 
 ## Product Guides
 

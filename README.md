@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hubble is the all-in-one solution for your campaign’s contact management, financial accounting, and communication needs.
+Hubble is the platform to centralize your political campaign. It's got all your voters, donors, and contacts (plus more) all in one place.&#x20;
 
 <figure><img src="https://cdn.hubble.vote/images/screenshots/universe-hub-dashboard.png" alt=""><figcaption><p>Universe Dashboard</p></figcaption></figure>
 
@@ -12,8 +12,12 @@ Hubble is the all-in-one solution for your campaign’s contact management, fina
 [federations.md](fundamentals/federations.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/universe.md" %}
-[universe.md](fundamentals/universe.md)
+{% content-ref url="fundamentals/universes.md" %}
+[universes.md](fundamentals/universes.md)
+{% endcontent-ref %}
+
+{% content-ref url="fundamentals/multiverses.md" %}
+[multiverses.md](fundamentals/multiverses.md)
 {% endcontent-ref %}
 
 ## Get Started
